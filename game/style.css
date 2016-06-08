@@ -1,0 +1,76 @@
+body {
+
+	background-image: url("https://i.ytimg.com/vi/ZCwgSN3t5PM/hqdefault.jpg");
+    background-size: cover;
+    background-position: center center;
+	font-family: monospace;
+
+}
+
+/*Stuff below governs the start screen*/
+
+.titleContent {
+	margin: 10% auto;
+    text-align: center;
+}
+
+.splashTitle {
+	color: red;
+    font-size: 8em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+}
+
+
+
+
+
+.button {
+	border: 5px solid #383838;
+    color: red;
+    padding: 20px 50px;
+    font-size: 5em;
+    text-decoration: none;
+    background-color: black;
+    box-shadow: 15px 15px 80px #555;
+}
+  a.button:hover {
+    background-color: #383838;
+    color: #abc;
+  }
+
+
+
+/*Stuff below governs the Explore screen*/
+
+#exploreBody {
+	background-image: url("http://flamesnation.ca/uploads/Image/91%20Building%20Falling%20Over.jpg");
+	background-position: bottom center;
+}
+
+   
+#lol  {
+    background-image: url("http://i.telegraph.co.uk/multimedia/archive/01432/china_1432267c.jpg");
+    width: 10000px;
+    height: 1400px; 
+    background-size: 1700px 1800px;
+    background-repeat: no-repeat;
+    position: absolute;
+    left:400px;
+}
+
+
+
+    
+
+#man{
+
+position: absolute;
+top: 900px;
+left: 900px; 
+}
+
+}
+
+
+
